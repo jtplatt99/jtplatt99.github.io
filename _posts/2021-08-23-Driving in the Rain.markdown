@@ -53,7 +53,7 @@ After an hour or two of development (which I did on my phone in Termux), the pro
 ![Screenshot from Open Street Map with RainViewer Precipitation Overlay](/static/OsmAndRainViewer.jpg){: width="200"}
 ![Screenshot from Termux Running the Proxy Server](/static/TermuxProxyServer.jpg){: width="200"}
 {: refdef}
-The RainViewer overlay in OsmAnd+ on the left and the proxy server running in Termux on the left.<br><br>
+The RainViewer overlay in OsmAnd+ on the left and the proxy server running in Termux on the right.<br><br>
 {: refdef}
 
 Now, I can honestly say that having the weather radar displayed right on the map while navigating is amazing. I had the weather overlay up and running for the last two hours of the drive down, and even in that short time it was really useful. I could easily see when rain was coming up, and, even better, I could see right how much more rain was ahead. I was surprised how accurate RainViewer is; all the data seemed spot on, even showing faint blue in sections where it was drizzling. I wonder how long it will be until Google gets around to implementing something similar in Google Maps?
