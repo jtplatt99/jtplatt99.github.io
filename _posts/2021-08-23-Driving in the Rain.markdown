@@ -5,7 +5,6 @@ date:   2021-08-23 12:00:00 -0500
 categories: development
 tags: openstreetmap rainviewer termux
 ---
-# The Problem
 
 I think we've all been in this situation before: you're out for a drive and out of no where it starts raining. Well, less so rain and more so torrential downpour. I do tend to be a little risk averse, so maybe this is just me, but I think there comes a point where even the most intrepid drivers need to pull into the shoulder and wait it out. I've certainly done so plenty of times, but I often wonder if I'd be passed the worst of it if I just kept driving another minute or two.
 

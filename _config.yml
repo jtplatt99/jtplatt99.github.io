@@ -23,10 +23,11 @@ email: jonathantplatt@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jonathan Platt's website and project blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.jonathantplatt.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jonathantplatt
 github_username:  jtplatt99
 linkedin_username: jonathantplatt
+show_excerpts: true
 
 # Build settings
 theme: minima
