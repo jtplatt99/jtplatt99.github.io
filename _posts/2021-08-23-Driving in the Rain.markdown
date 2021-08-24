@@ -6,7 +6,7 @@ categories: development
 tags: openstreetmap rainviewer termux
 ---
 
-I think we've all been in this situation before: you're out for a drive and out of no where it starts raining. Well, less so rain and more so torrential downpour. I do tend to be a little risk averse, so maybe this is just me, but I think there comes a point where even the most intrepid drivers need to pull into the shoulder and wait it out. I've certainly done so plenty of times, but I often wonder if I'd be passed the worst of it if I just kept driving another minute or two.
+I think we've all been in this situation before: you're out for a drive and out of nowhere it starts raining. Well, less so rain and more so torrential downpour. I do tend to be a little risk averse, so maybe this is just me, but I think there comes a point where even the most intrepid drivers need to pull into the shoulder and wait it out. I've certainly done so plenty of times, but I often wonder if I'd be passed the worst of it if I just kept driving another minute or two.
 
 Thankfully, the pieces slowly fell together this summer and I've found a way to always know.
 
@@ -28,7 +28,7 @@ As per usual, I am not the first person to think of this. The right google searc
 The Open Weather Map overlay in OsmAnd+.<br><br>
 {: refdef}
 
-I also was able to get the Open weather Map overlay working in Open Street Map, but I couldn't help but notice that the overlay only displays in blue. I looked at the API to see if there was away to change the color scheme, but this doesn't seem possible. One option could be looking at the [Weather Maps 2.0 API](https://openweathermap.org/api/weather-map-2), but unfortunately this requires a [developer subscription](https://openweathermap.org/price)...and I definitely wasn't planning on paying for that!
+I also was able to get the Open Weather Map overlay working in Open Street Map, but I couldn't help but notice that the overlay only displays in blue. I looked at the API to see if there was away to change the color scheme, but this doesn't seem possible. One option could be looking at the [Weather Maps 2.0 API](https://openweathermap.org/api/weather-map-2), but unfortunately this requires a [developer subscription](https://openweathermap.org/price)...and I definitely wasn't planning on paying for that!
 
 I wasn't happy with the way the overlay worked, but I hit a roadblock, plus my internship was just starting to pick up so I decided to shelf the project for the time being. It sat more or less untouched until about a week ago when I was driving back down to Alabama for the start of the fall semester, where, you guessed it, we hit a lot of rain.
 
