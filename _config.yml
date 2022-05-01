@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Jonathan Platt's website and project blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jonathantplatt.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jonathantplatt
+mastodon: mastodon.social/@jtplatt
 github_username:  jtplatt99
 linkedin_username: jonathantplatt
 show_excerpts: true
