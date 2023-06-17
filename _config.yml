@@ -24,7 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   Jonathan Platt's website and project blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.jonathantplatt.com" # the base hostname & protocol for your site, e.g. http://example.com
-mastodon: mastodon.social/@jtplatt
+mastodon:
+  username: jtplatt
+  instance: crabland.social
 github_username:  jtplatt99
 linkedin_username: jonathantplatt
 show_excerpts: true
@@ -33,6 +35,7 @@ show_excerpts: true
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll/mastodon_webfinger
 
 # Exclude from processing.
 # The following items will not be processed, by default.
